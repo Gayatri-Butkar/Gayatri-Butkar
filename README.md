@@ -1,10 +1,24 @@
-# 🌸 Hi, I'm Gayatri Butkar
+# 👋 Hi, I'm Gayatri Butkar
 
-### IT Student | DSA & AI Enthusiast
+### 💻 MCA Student | DSA | Java | AI & Data Science
 
-I'm an aspiring IT professional passionate about problem-solving, Data Structures & Algorithms, Artificial Intelligence, and Data Science. I enjoy learning new technologies, building projects, and continuously improving my technical skills.
+I'm an MCA student passionate about **problem-solving, Data Structures & Algorithms, Artificial Intelligence, and Data Science**.
+
+I enjoy building projects, solving coding problems, exploring new technologies, and continuously improving my technical skills.
 
 ---
+
+## 🚀 About Me
+
+* 🎓 MCA Student
+* 💻 Strengthening my **DSA & Java** skills
+* 🤖 Exploring **Artificial Intelligence & Machine Learning**
+* 📊 Interested in **Data Analysis & Data Science**
+* 🧩 Practicing problem-solving on **LeetCode & HackerRank**
+* 🌱 Continuously learning and building
+
+---
+
 
 ## 🛠️ Tech Stack
 
